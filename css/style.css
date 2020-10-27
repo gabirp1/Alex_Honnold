@@ -90,13 +90,11 @@ button {
     grid-area: formulario;
 }
 
-.item5 {
-    grid-area: foto;
-}
+
 
 .grid-container {
     display: inline-block;
-    grid-template-areas: 'header' 'main' 'bottom' 'formulario' 'foto';
+    grid-template-areas: 'header' 'main' 'bottom' 'formulario' ;
     grid-gap: 10px;
     background-color: #2196F3;
     padding: 10px;
@@ -172,8 +170,7 @@ textarea {
     display: block;
 }
 
-div.img {
-    width: 100%;
-    height: auto;
-    object-position: center;
-}
+div.img {;
+    width: 500%;
+    height: auto; align: center
+}   
