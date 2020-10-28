@@ -100,7 +100,7 @@ button {
     line-height: 125px;
     align-items: center;
     align-content: center;
-    text-align: center; width: 100%; margin: auto;
+    text-align: center; width: 80%; margin-right: 5%;margin-left: 5%; margin-top: 5%;margin-bottom: 5%; 
 }
 
 .grid-container>div {
